@@ -456,18 +456,3 @@ npm test
 | `needs clarification` | Awaiting spec |
 | `blocked` | External dependency |
 
----
-
-## License
-Choose a license (MIT recommended for openness).  
-Example (MIT):
-
-```
-MIT License
-
-Copyright (c) 2025 ...
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
-```
-
----
